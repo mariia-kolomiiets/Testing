@@ -1,0 +1,21 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "chromedriver": "^80.0.1",
+    "mongodb": "^3.5.5",
+    "osmosis": "^1.1.10",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariia Kolomiiets",
+  "license": "ISC"
+}
